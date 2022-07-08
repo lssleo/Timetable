@@ -1,10 +1,9 @@
-# This is simple timetable on Python.
+# This is simple timetable on Python!
 
 print(
     "\n\nHello! I'm your timetable program. \nI'll help you to be effective. \n I believe in you!\n\n"
 )
 # Welcome message
-
 
 def timetable():  # func
 
@@ -54,6 +53,5 @@ def restart():  # this cycle for chance to try again
             restart = str(input("\n\nrestart? y/n. : \n"))
 
 
-timetable()  # start function with timetable
-
-restart()  # opportunity to restart in any option
+timetable()  # start function with timetable.
+restart()  # opportunity to restart in any option.
