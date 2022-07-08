@@ -5,7 +5,6 @@ print(
 )
 # Welcome message
 
-
 def timetable():  # func
 
     try:
@@ -54,6 +53,5 @@ def restart():  # this cycle for chance to try again
             restart = str(input("\n\nrestart? y/n. : \n"))
 
 
-timetable()  # start function with timetable
-
-restart()  # opportunity to restart in any option
+timetable()  # start function with timetable.
+restart()  # opportunity to restart in any option.
