@@ -1,4 +1,4 @@
-# This is simple timetable on Python.
+# This is simple timetable on Python!
 
 print(
     "\n\nHello! I'm your timetable program. \nI'll help you to be effective. \n I believe in you!\n\n"
