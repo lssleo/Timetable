@@ -24,7 +24,7 @@ def timetable():  # func
         elif time >= 13.00 and time < 14.00:
             print("\nDinner / Free time : 13.00 - 14.00")
         elif time >= 14.00 and time < 18.00:
-            print("\nCoding(IT) : 14.00 - 18.00")
+            print("\nCoding : 14.00 - 18.00")
         elif time >= 18.00 and time < 19.00:
             print("\nSupper(light) : 18.00 - 19.00")
         elif time >= 19.00 and time < 21.30:
